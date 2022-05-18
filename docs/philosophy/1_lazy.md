@@ -12,4 +12,3 @@ Never perform the same task more than once
 ## Use Your Tools
 
 1. Modern IDE's have advanced Code analysis integrated into your code writing
-   1. 

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: An Opinion on Software
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: purple
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+nav:
+  - Intro: index.md
+  - What am I Talking About: topic.md
+  - Do you care what I have to say?: 3_do_you_care.md
+  - My Opinion: 4_opinion.md
+  - Philosophy:
+      - Laziness: philosophy/1_lazy.md
+  - Implementation:
+      - Agile Project Management:
+        - Overview: implementation/agile/overview.md
+        - Tools: implementation/agile/implementation.md
+
+markdown_extensions:
+  - attr_list
