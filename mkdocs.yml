@@ -22,6 +22,7 @@ nav:
   - Philosophy:
       - Laziness: philosophy/1_lazy.md
   - Implementation:
+      - Overview: implementation/1_overview.md
       - Agile Project Management:
         - Overview: implementation/agile/overview.md
         - Tools: implementation/agile/implementation.md

@@ -1,5 +1,15 @@
 # Overview
 
+## The Story
+1. 
+
+## What People Do Poorly
+1. Write Code
+2. Test Code
+
+## What gets inherited
+1. Poorly written code
+
 ## What was missing
 
 1. Code sharing: Source control practices (monoreo vs manyrepo)
@@ -11,3 +21,6 @@
 7. Good tools:
     1. Licenced IDEs (JetBrains IntelliJ), Modern Languages (Just say "no" to Java)
 8. Cohesive Documentation: Embed Documentation in Code
+
+
+## Do This Not That
