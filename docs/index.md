@@ -1,6 +1,8 @@
 # Intro
 
-> 8 Years in the practice as a generalist
+Sam Howes
 
-* By Sam Howes
-    * Bachelor's in Computer Engineering, BU 2014 
+* Bachelor's in Computer Engineering, ECE 2014
+* 8 Years in the practice of Software Engineering as a generalist
+
+![](./profile_square.jpeg){width=300}

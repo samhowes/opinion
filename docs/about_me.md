@@ -1,5 +1,6 @@
 # Do you care what I have to say?
 
+![profile_picture](https://www.bu.edu/peaclab/files/2013/08/sam_photo.jpg){width=300}
 ## Attended BU College of Engineering 2010 - 2014
 2. Took EC327 with Prof. Coskun
 3. Started Undergraduate Research with Prof. Coskun in 2012

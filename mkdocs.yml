@@ -13,19 +13,29 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
 
 nav:
-  - Intro: index.md
-  - What am I Talking About: topic.md
-  - Do you care what I have to say?: 3_do_you_care.md
-  - My Opinion: 4_opinion.md
-  - Philosophy:
-      - Laziness: philosophy/1_lazy.md
-  - Implementation:
-      - Overview: implementation/1_overview.md
-      - Agile Project Management:
-        - Overview: implementation/agile/overview.md
-        - Tools: implementation/agile/implementation.md
+  - About Me:
+    - index.md
+    - about_me.md
+    - What am I talking about: topic.md
+  - A Day in the Life:
+      - story/index.md
+  - Reference:
+    - My Opinion: 4_opinion.md
+    - Philosophy:
+        - Laziness: philosophy/1_lazy.md
+    - Implementation:
+        - Overview: implementation/1_overview.md
+        - Agile Project Management:
+          - Overview: implementation/agile/overview.md
+          - Tools: implementation/agile/implementation.md
 
 markdown_extensions:
   - attr_list
