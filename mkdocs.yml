@@ -22,20 +22,19 @@ theme:
 
 nav:
   - About Me:
-    - index.md
-    - about_me.md
-    - What am I talking about: topic.md
+      - Intro: index.md
+      - Bio: about_me.md
+
   - A Day in the Life:
-      - story/index.md
+      - Monday: story/index.md
+      - Bob's Task: story/bobs_task.md
+
   - Reference:
-    - My Opinion: 4_opinion.md
-    - Philosophy:
-        - Laziness: philosophy/1_lazy.md
-    - Implementation:
-        - Overview: implementation/1_overview.md
-        - Agile Project Management:
-          - Overview: implementation/agile/overview.md
-          - Tools: implementation/agile/implementation.md
+      - Good Software Engineers: reference/good_software_engineer.md
+      - Agile Project Management:
+        - Philosophy: reference/agile.md
+        - Tools: reference/agile/implementation.md
+
 
 markdown_extensions:
   - attr_list
