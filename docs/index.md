@@ -4,7 +4,7 @@
 
 ## Sam Howes
 
-* Email: sam@samhowes.com
+* Email: sam@samhowes.com; [LinkedIn](https://www.linkedin.com/in/samuelhowes)
 * Bachelor's in Computer Engineering, ECE 2014
 * 8 Years in the practice of Software Engineering as a **generalist**
     * Develop
