@@ -1,6 +1,0 @@
-
-# Standup
-
-# Backlog
-
-## Grooming

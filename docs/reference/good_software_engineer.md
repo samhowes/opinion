@@ -37,11 +37,6 @@ Work must be reviewed for mistakes.
 
 > **"I must have made a mistake somewhere, please help me find it"**
 
-## Pedanticism
-
-Code isn't real, it's completely made up. If someone fails to communicate a concept, their code will be
-misunderstood.
-
 ## Summary
 
 A good Software Engineer automates everything, will only work on formally documented work requests, speaks simply, so

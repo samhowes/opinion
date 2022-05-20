@@ -28,11 +28,20 @@ nav:
   - A Day in the Life:
       - Monday: story/index.md
       - Bob's Task: story/bobs_task.md
+      - Understanding the Task: story/sure_thing.md
+      - Doing the Work: story/write_code.md
+      - Pushing through the Process: story/policy_override.md
+      - Deploying to Production: story/deploying_to_production.md
+      - Fixing Production: story/fixing_production.md
+      - Plan a Conversation: story/sticky_note.md
+      - First of the Month: story/first_of_the_month.md
+      - Results: story/results.md
 
   - Reference:
       - Good Software Engineers: reference/good_software_engineer.md
       - Agile Project Management:
-        - Philosophy: reference/agile.md
+        - Philosophy: reference/agile/overview.md
+        - Components: reference/agile/components.md
         - Tools: reference/agile/implementation.md
 
 
