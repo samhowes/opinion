@@ -27,7 +27,7 @@
     3. Learned Agile Project Management via Agile Coach
 ## Worked at Google 2017-2019 (In-person from Boulder, CO)
 1. 80K Software Engineers getting paid too much money to eat free food, drink free lattes, and get free massages
-2. Worked on a team of 4-5 writing UI tests for Google Drive Android because they didn't write their own tests
+2. Worked on a team of 4-5 writing UI tests for Google Drive Android
     1. Java, Android Espresso, Python, gRPC
 3. Worked by myself for a team of ~10 writing tests for Google Workspace Migrate because they didn't write their own
    tests
