@@ -28,14 +28,11 @@
 ## What I do
 
 1. Problem Solve
-2. Compose other people's solutions into my own solution
+2. Compose other people's solutions
 3. Apply common solutions to new problems
-4. Use heavy sarcasm
+4. Use heavy sarcasm (Sorry Josh)
 
 ## What I don't do
 
 1. Write algorithms
 2. Do science
-3. Come up with novel solutions to problems
-
-
