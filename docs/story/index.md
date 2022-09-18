@@ -1,6 +1,6 @@
 # A Typical Day At Work
 
-## You're name is Josh
+## Your name is Josh
 
 It's Monday. You are a Software Engineer named Josh. Your coworker, Sam, has been out on vacation since last week, and
 won't be in until next Monday.
