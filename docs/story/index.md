@@ -17,10 +17,9 @@ morale is high.
 
 ## Bob is your Manager
 
-Bob is your manager. You have a good relationship with Bob, you're still learning his full history of work and motivations
-though.
+Bob is your manager. You have a good relationship with Bob, but you're still getting to understand what his skillset is.
 
-It's getting to the end of the quarter, and Bob has told you that he has some spot-bonus money that he is going to give
-away soon. You're hoping to get the $10K for doing good work.
+It's getting to the end of the quarter, and Bob has told you that he's looking to give away a $10K spot-bonus. You're
+hoping to get the $10K for doing good work.
 
 [Bob comes to talk to you](./bobs_task.md)

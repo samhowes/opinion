@@ -2,7 +2,7 @@
 
 Sam tells finance the feature has already existed for a few months and improves the documentation on it.
 
-![Bad Feature](./swing.png)
+![Bad Feature](./swing.png){width=600}
 
 ## Restoring the previous version
 
@@ -10,12 +10,14 @@ Sam redeploys the last official version through the automated system.
 
 ## The dashboard goes down again
 
-Josh changed something that broke the automated release. 
+Josh changed something that broke the automated release.
 
-Sam logs into the server to find that Josh toggled a setting that the automation depended on. Sam toggles the setting and redeploys. 
+Sam logs into the server to find that Josh toggled a setting that the automation depended on. Sam toggles the setting
+and redeploys.
 
-# Post-mortem
+# Final Results
 
-Sam spends the rest of the day writing a report to the CFO and doing a post mortem on the mistakes Josh made, and why they cost the finance department an entire day of productivity on a critical day of the month.
+Sam spends the rest of the day On-Call for the CFO to mitigate the many issues that resulted. Sam's day is wasted, and
+Josh's mistake caused the finance department to lose money.
 
 > **Bob awards Sam $10K in a spot-bonus for successfully following process and putting out a fire**
